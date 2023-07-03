@@ -11,4 +11,6 @@ Fourth update
 
 Fith update
 
+Sixth update after directory rename
+
 end of file
