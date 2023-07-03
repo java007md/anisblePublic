@@ -15,10 +15,7 @@
 
   - name: install flatpak support
     apt:
-      name: flatpak
-      state: latest
-
-  - name: install flatpak support
-    apt:
-      name: plasma-discover-backend-flatpak
+      name: 
+        - flatpak
+        - plasma-discover-backend-flatpak
       state: latest
